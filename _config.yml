@@ -1,5 +1,4 @@
 title: Scot Morgan
-description: Merlot is a theme for GitHub Pages.
 show_downloads: false
-google_analytics:
+google_analytics: false
 theme: jekyll-theme-merlot
