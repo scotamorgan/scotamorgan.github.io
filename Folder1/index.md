@@ -4,5 +4,5 @@ description: 'Course Content'
 ---
 
 The content is ...
-- HTML:
-- Jupyter:
+- HTML: [Mod. 3 Graphing Assignment (html)](M3Graphing.html)
+- Jupyter: [Mod. 3 Graphing Assignment (ipynb)](M3Graphing.ipynb)
